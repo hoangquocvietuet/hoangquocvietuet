@@ -9,7 +9,7 @@
 ### ⚡ A few things about me:
 - 🌍 I'm based in **Hanoi, Vietnam**.
 - 🧠 I love Move and smart contract security — Sui Move is my playground.
-- 🔧 Currently exploring **React Native**, **Kotlin**, and embedded cryptography.
+- 🔧 Currently exploring **Rust**, **Move**, **Solidity** and cryptography.
 - 🛠️ I’m a hackathon addict and builder of real products.
 - 🧑‍💻 Always learning, always shipping.
 
